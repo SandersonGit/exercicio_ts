@@ -8,5 +8,8 @@ function saudacao(nome: string): string {
     return "Olá " + nome;
 }
 
-multiplicar(2, 5)
-saudacao("Sanderson")
+console.log(multiplicar(2, 5));
+console.log(saudacao("Sanderson"));
+
+ 
+
